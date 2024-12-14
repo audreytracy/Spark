@@ -13,3 +13,8 @@ List output files with `hadoop fs -ls /user/username/output/`
 To get single local output use `hadoop fs -getmerge /user/username/output merged`. View with `cat merged`
 
 
+## How to run 
+
+https://github.com/user-attachments/assets/711aebf6-b998-4b03-9061-dad7732130a4
+
+
